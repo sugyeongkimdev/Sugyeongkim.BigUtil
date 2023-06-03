@@ -16,8 +16,8 @@ UniRx util package path : https://github.com/sugyeongkimdev/Sugyeongkim.BigUtil.
 
 or  
 
-Unity util package path : https://github.com/sugyeongkimdev/Sugyeongkim.BigUtil.Unity.git?path=Assets/Sugyeongkim.BigUtil.Unity  
-UniRx util package path : https://github.com/sugyeongkimdev/Sugyeongkim.BigUtil.Unity.git?path=Assets/Sugyeongkim.BigUtil.UniRx  
+Unity util package path : https://github.com/sugyeongkimdev/Sugyeongkim.BigUtil.git?path=Assets/Sugyeongkim.BigUtil.Unity  
+UniRx util package path : https://github.com/sugyeongkimdev/Sugyeongkim.BigUtil.git?path=Assets/Sugyeongkim.BigUtil.UniRx  
 
 ![unity 패키지1](https://github.com/sugyeongkimdev/Unity-Utility/assets/51020780/fc46d74a-f5ce-418a-8fc8-96e964840d0d)
 ![unity 패키지2](https://github.com/sugyeongkimdev/Unity-Utility/assets/51020780/df7af993-e0da-4e66-903b-e7b860c3fb09)
